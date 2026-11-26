@@ -1,0 +1,14 @@
+.p-breadcrumb {
+	background: #ffffff00 !important;
+	border: 1px solid #ffffff17 !important;
+	padding: 0.5rem !important;
+}
+.p-breadcrumb .p-menuitem-link {
+	display: inline !important;
+	background: rgb(255 255 255 / 0%) !important;
+	border: 1px solid #ffffff00 !important;
+}
+
+.p-breadcrumb .p-menuitem-link:hover {
+	background: rgba(255, 255, 255, 0.05) !important;
+}
